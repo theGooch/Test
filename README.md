@@ -1,6 +1,6 @@
 # Test
 #EXTM3U
-#EXTINF:-1,ex-Yu: Pink Erotik 4 kitboxtv
+#EXTINF:-1,ex-Yu: Pink Erotik 4 
 http://109.236.90.101:8000/live/ZLS0QMxatlrteam/ZLS0QXmtarletam/277.m3u8
 #EXTINF:-1,eX-Yu: Pink Erotik 3 kitboxtv
 http://109.236.90.101:8000/live/ZLS0QMxatlrteam/ZLS0QXmtarletam/276.m3u8
